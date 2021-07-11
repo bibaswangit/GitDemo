@@ -8,5 +8,7 @@ public class DemoTest {
 	public void demotest()
 	{
 		System.out.println("Demo test");
+		System.out.println("Demo test");
+		System.out.println("Demo test");
 	}
 }
